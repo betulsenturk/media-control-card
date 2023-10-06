@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Feeling Good",
+        "singer": "Nina Simone",
+        "image": "https://i.scdn.co/image/ab67616d00001e02892abb1ade35b4863b29e051",
+        "song": "./src/music/Feeling Good-Nina Simone.mp3"
+    },
+    {
+        "name": "Born To Die",
+        "singer": "Lana Del Rey",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ebc8cfac8b586bc475b04918",
+        "song": "./src/music/Lana Del Rey-Born To Die.mp3"
+    },
+    {
+        "name": "Unity",
+        "singer": "Alan Walker",
+        "image": "https://i.scdn.co/image/ab67616d00001e02a6ac979c144339c55131b472",
+        "song": "./src/music/Alan Walker-Unity.mp3"
+    },
+    {
+        "name": "Past Lives",
+        "singer": "Martin Arteta",
+        "image": "https://i.scdn.co/image/ab67616d00001e02281229a3fdf6a77dd5c1c97f",
+        "song": "./src/music/Past Lives-Martin Arteta.mp3"
+    },
+    {
+        "name": "Mary On A Cross",
+        "singer": "Ghost",
+        "image": "https://i.scdn.co/image/ab67616d00001e02bef9b0a348ea8dd18a581025",
+        "song": "./src/music/Ghost-Mary On A Cross.mp3"
+    },
+    {
+        "name": "Me Gustas Tu",
+        "singer": "Manu Chao",
+        "image": "https://i.scdn.co/image/ab67616d00001e021dcba4a728ca0b17cbd204a5",
+        "song": "./src/music/Manu Chao-Me Gustas Tu.mp3"
+    },
+    {
+        "name": "Kill Bill",
+        "singer": "SZA",
+        "image": "https://i.scdn.co/image/ab67616d00001e0270dbc9f47669d120ad874ec1",
+        "song": "./src/music/SZA-Kill Bill.mp3"
+    },
+    {
+        "name": "Disfruto",
+        "singer": "Carla Morrison",
+        "image": "https://i.scdn.co/image/ab67616d00001e023c7260a47edb227e2ed7260f",
+        "song": "./src/music/Carla Morrison-Disfruto.mp3"
+    },
+    {
+        "name": "Mockingbird",
+        "singer": "Eminem",
+        "image": "https://i.scdn.co/image/ab67616d00001e02726d48d93d02e1271774f023",
+        "song": "./src/music/Eminem-Mockingbird.mp3"
+    },
+    {
+        "name": "Until I Find You",
+        "singer": "Stephen Sanchez",
+        "image": "https://i.scdn.co/image/ab67616d00001e028792c3e96f8ab97a767c5d0c",
+        "song": "./src/music/Stephen Sanchez-Until I Found You.mp3"
+    },
+    {
+        "name": "Lights Are On",
+        "singer": "Tom Rosenthal",
+        "image": "https://i.scdn.co/image/ab67616d00001e02963d93a7d49b6a45facb8f78",
+        "song": "./src/music/Tom Rosenthal-Lights Are On.mp3"
+    },
+    {
+        "name": "Count On Me",
+        "singer": "Bruno Mars",
+        "image": "https://i.scdn.co/image/ab67616d00001e02f60070dce96a2c1b70cf6ff0",
+        "song": "./src/music/Bruno Mars-Count on Me.mp3"
+    },
+    {
+        "name": "Another Love",
+        "singer": "Tom Odell",
+        "image": "https://i.scdn.co/image/ab67616d00001e021917a0f3f4152622a040913f",
+        "song": "./src/music/Tom Odell-Another Love.mp3"
+    }
+]
